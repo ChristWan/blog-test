@@ -6,7 +6,7 @@
 * 玩游戏
 * 敲代码（我自己反正信了）
 
-对了，我还有一点点Java基础，下面是我写的一个小练习
+对了，我还有一点点`Java`基础，下面是我写的一个小练习
 ```java
 public class Demo {
     public static void main(String[] args) {
@@ -39,9 +39,9 @@ public class Demo {
 }
 ```
 
+即将学习`html`，`JavaScript`，`CSS`的我
+最后希望的未来是
 
-还没有开始学html，所以就没法展示了
-最后我希望我的未来是
 1. 有房
 2. 有车
 3. 有一个幸福美满的家
